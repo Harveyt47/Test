@@ -1,5 +1,3 @@
-name: rebaser
-
 on: 
   issue_comment:
     types: [created]
